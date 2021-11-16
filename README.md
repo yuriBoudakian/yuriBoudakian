@@ -1,6 +1,6 @@
 - ✌ Me chamo Yuri Boudakian
 - 😎 Estou interessado em aprender profundamente programação
-- 🤓 Estou aprendendo atualmente Lógica de programação em JS e HTML
+- 🤓 Conhecimentos básicos em Lógica de Programação em JS / HTML
 
 <div align="center">
   <a href="https://github.com/yuriBoudakian">
